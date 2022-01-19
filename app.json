@@ -1,0 +1,12 @@
+{
+  "name": "FirstGEU",
+  "displayName": "FirstGEU",
+  "expo": {
+    "name": "FirstGEU",
+    "slug": "FirstGEU",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
